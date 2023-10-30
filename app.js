@@ -1,4 +1,4 @@
-// //Rough file
+// Rough file
 // let arr = ["aman","pranshu","nasir","addarsh"]
 // let obj = {
 //     name : "sravan",
@@ -6,15 +6,14 @@
 //     clg : "lpu",
 //     food : "biryani"
 // }
-// // 'in' is used for getting keys
-// // 'of' is used for getting values
+//  'in' is used for getting keys
+// 'of' is used for getting values
 // for (element in arr){
 //     console.log(element)
 // }
 
 
-/// list dwon  a;; the winning combinations
-
+// listing down all the winning combinations
 let winningCombinations = [
     [1,2,3],  // Vertical 
     [4,5,6],  // Vertical 
